@@ -12,8 +12,4 @@ Bio should include
 
     3) Station
 
-    4) Wiki Bio Database
-
-    bundle install any necessary dependencies. Run in explorer. EX on Ubuntu/Bash: /Phase-1-Astronauts$ explorer.exe index.html
-
-    To maintain: revisit http://api.open-notify.org/astros.json and update index.js
+    4) Bio link to wiki
