@@ -1,4 +1,6 @@
-# Phase-1-Astronauts
+Astronauts In Space
+
+***this project will need to be revamped so that getAstros is handling data in a way that is more abstract. goal is to future proof this***
 
 Phase 1 Astro will allow the user to select an image of an astronaut, then drag and drop it toward the target (a space station image perhaps).
 
